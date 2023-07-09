@@ -2,6 +2,7 @@ package hari1;
 
 public class TipeDataNumber {
     public static void main(String[] args) {
+
         // Kode: Integer Number
         byte iniByte = 100; // size 1 byte
         short iniShort = 1000; // size 2 byte
