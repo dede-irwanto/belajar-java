@@ -3,8 +3,8 @@ package hari1;
 public class KonversiTipeDataNumber {
     public static void main(String[] args) {
         // Widening Casting (Otomatis) konversi dari size tipe data kecil ke besar: byte -> short -> int -> long -> float -> double
-        int iniInteger = 10;
-        long iniLong = iniInteger;
+        int iniInt = 10;
+        long iniLong = iniInt;
         float iniFloat = iniLong;
         double iniDouble = iniFloat;
 
