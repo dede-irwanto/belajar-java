@@ -6,8 +6,8 @@ public class TipeDataChar {
         char k = 'K';
         char a = 'A';
 
-        System.out.println(e);
-        System.out.println(k);
-        System.out.println(a);
+        System.out.print(e);
+        System.out.print(k);
+        System.out.print(a);
     }
 }
