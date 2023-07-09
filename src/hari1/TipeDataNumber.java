@@ -19,7 +19,7 @@ public class TipeDataNumber {
         int binaryDecimal = 0b10101010; // tambahkan 0b
 
         // Kode: Underscore
-        int amount = 1_000_000_000; // digunakan untuk mempermudah pembacaan
+        int amount = 1_000_000_000; // digunakan untuk memudahkan pembacaan angka
 
     }
 }
