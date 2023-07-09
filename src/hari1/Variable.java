@@ -26,6 +26,6 @@ public class Variable {
 
         // jika kita menginginkan value pada variable tidak dapat diubah maka gunakan final
         final var application = "Java";
-        application = "PHP"; // error
+//        application = "PHP"; // error
     }
 }
