@@ -2,7 +2,7 @@ package hari2;
 
 public class DoWhileLoop {
     public static void main(String[] args) {
-        var counter = 100;
+        var counter = 10;
 
         do {
             System.out.println(counter);
