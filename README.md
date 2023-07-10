@@ -1,2 +1,2 @@
-# belajar-java
-Learn Java from scratch
+# Belajar Java Sesi I
+Belajar Java Dasar
