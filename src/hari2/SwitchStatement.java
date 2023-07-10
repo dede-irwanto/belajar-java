@@ -21,7 +21,7 @@ public class SwitchStatement {
                 System.out.println("Anda salah jurusan");
         }
 
-        // gaya lain penulisan switch case
+        // gaya lain penulisan switch case (hanya berjalan di java 14+
         var nilai2 = "C";
         switch (nilai2) {
             case "A" -> System.out.println("Nilai anda istimewa");
